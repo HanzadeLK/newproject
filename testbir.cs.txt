@@ -4,13 +4,14 @@ public class M {}
 public class K {}
 public class MKA 
 {
-    int a = 15;
+    int a = 15; 
     int b = 25;
     int c = 17;
-
+    int x = 18;
+    int y = 19;
 
 }
-public class RBA 
+public class RBA
 {
     string R;
 }
