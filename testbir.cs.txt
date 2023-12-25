@@ -5,5 +5,7 @@ public class K {}
 public class MKA 
 {
     int a = 15; 
+    int c= 17;
+
 
 }
