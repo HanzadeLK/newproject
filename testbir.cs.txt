@@ -10,3 +10,7 @@ public class MKA
 
 
 }
+public class RBA 
+{
+    string R;
+}
