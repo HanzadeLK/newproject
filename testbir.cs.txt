@@ -2,3 +2,8 @@ public class A {}
 public class G {}
 public class M {}
 public class K {}
+public class MKA 
+{
+    int a = 15; 
+
+}
